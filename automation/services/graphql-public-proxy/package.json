@@ -8,13 +8,13 @@
   },
   "dependencies": {
     "apollo-link-http": "^1.5.16",
-    "apollo-server-express": "1",
-    "body-parser": "^1.19.0",
+    "apollo-server-express": "3",
+    "body-parser": "^1.20.3",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "graphql": "^14.5.8",
     "graphql-tools": "^4.0.5",
-    "http-proxy": "^1.18.0",
-    "node-fetch": "^2.6.0"
+    "http-proxy": "^1.18.1",
+    "node-fetch": "^2.6.7"
   }
 }
